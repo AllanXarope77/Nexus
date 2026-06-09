@@ -18,7 +18,7 @@ let isUsingAtlas = false;
 
 // --- CONEXÃO COM O MONGODB ATLAS ---
 // Lembre-se de substituir SUA_SENHA_AQUI pela senha limpa do banco.
-const MONGO_URI = 'mongodb+srv://allannascimentoalmeida15_db_user:allannascimentoalmeida15_db_user@cluster0.2lm8nwv.mongodb.net/nexus_solo_db?retryWrites=true&w=majority';
+const MONGO_URI = 'mongodb+srv://allannascimentoalmeida15_db_user:12345@cluster0.2lm8nwv.mongodb.net/?appName=Cluster0';
 
 console.log('[SISTEMA]: Iniciando tentativa de Handshake com MongoDB Atlas Cluster...');
 
